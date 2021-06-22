@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Hello CMG
+# CMG Projects
+
+*	[CSSI](https://uw-cmg.github.io/cssi/)
