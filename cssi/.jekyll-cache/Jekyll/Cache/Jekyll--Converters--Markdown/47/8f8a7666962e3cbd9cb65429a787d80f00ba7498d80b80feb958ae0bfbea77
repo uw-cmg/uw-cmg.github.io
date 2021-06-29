@@ -1,0 +1,45 @@
+I"�<h1 id="cssi-work">CSSI Work</h1>
+
+<ul>
+  <li><a href="https://app.gitbook.com/@ai-materials-and-chemistry/s/foundry/v/docs/">Foundry</a>
+    <ul>
+      <li>Vision: 2-3 sentences</li>
+      <li>Members:</li>
+      <li><a href="https://github.com/MLMI2-CSSI/foundry">GitHub</a></li>
+      <li><a href="https://pypi.org/project/foundry-ml/">PyPI</a></li>
+      <li>Funding:
+        <ul>
+          <li>“Collaborative Research: Framework: Machine Learning Materials Innovation Infrastructure” <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931306&amp;HistoricalAwards=false">National Science Foundation Award Number: 1931306</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://mastmldocs.readthedocs.io/en/latest/">MAST-ML</a>
+    <ul>
+      <li>Vision: 2-3 sentences</li>
+      <li>Members:
+        <ul>
+          <li><a href="https://matmodel.engr.wisc.edu/members/">Prof. Dane Morgan</a></li>
+          <li><a href="https://matmodel.engr.wisc.edu/members/">Dr. Ryan Jacobs</a></li>
+          <li><a href="https://www.library.wisc.edu/about/directory/staff-page/tam-mayeshiba/">Dr. Tam Mayeshiba</a></li>
+          <li><a href="https://matmodel.engr.wisc.edu/members/cmg-alumni/">Dr. Henry Wu</a></li>
+          <li><a href="https://matmodel.engr.wisc.edu/members/">Benjamin Afflerbach</a></li>
+          <li><a href="https://www.engr.uky.edu/directory/finkel-raphael">Prof. Raphael Finkel</a></li>
+          <li>Luke Harold Miles</li>
+          <li>Robert Max Williams</li>
+          <li>Matthew Turner</li>
+        </ul>
+      </li>
+      <li><a href="https://github.com/uw-cmg/MAST-ML">GitHub</a></li>
+      <li><a href="https://pypi.org/project/mastml/">PyPI</a></li>
+      <li>Funding:
+        <ul>
+          <li>“SI2-SSI: Collaborative Research: A Computational Materials Data and Design Environment” <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148011">National Science Foundation Award Number: 1148011</a></li>
+          <li>“SI2-SSI: Collaborative Research: A Computational Materials Data and Design Environment” <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148011">National Science Foundation Award Number: 1332851</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+:ET
