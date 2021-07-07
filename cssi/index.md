@@ -34,3 +34,5 @@ layout: default
     - "SI2-SSI: Collaborative Research: A Computational Materials Data and Design Environment" [National Science Foundation Award Number: 1148011](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148011)
     - "DMREF-A Combined Experiment and Simulation Approach to the Design of New Bulk Metallic Glasses" [National Science Foundation Award Number: 1332851](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1332851)
 
+
+"Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
